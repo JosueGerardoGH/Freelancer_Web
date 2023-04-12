@@ -30,6 +30,14 @@ body   {
     
 }
 
-.navegacion-principal {
+.nav-bg{
     background-color: var(--Secundario);
+}
+
+.navegacion-principal {
+
+}
+
+.navegacion-principal a{
+    background-color: var(--Primario);
 }
